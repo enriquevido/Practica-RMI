@@ -29,6 +29,12 @@ Práctica RMI/
 
 ![Frontend RMI](docs/Front-rmi.png)
 
+## Captura de la base de datos
+
+Vista de la tabla `personas` en DBeaver:
+
+![Tabla personas en DBeaver](docs/bd-rmi.png)
+
 ## Nota
 
 Primero se debe ejecutar el servidor y despues el cliente.
